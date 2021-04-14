@@ -2,4 +2,4 @@
 
 docs1 입니다.
 
-> release 1
+> release 2
